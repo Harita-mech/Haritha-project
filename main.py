@@ -74,3 +74,4 @@ elif page_choice == "Text Translation":
     page2.main()
 elif page_choice == "About the App":
     page4.main()
+
